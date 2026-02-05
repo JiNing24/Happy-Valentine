@@ -131,6 +131,13 @@ nav ul li a:hover{
     text-align: center;
     color: #eee;
 }
+.lb-data .lb-caption {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #ffd1dc;
+}
+
 
 /* ================= */
 /* 📱 MOBILE VERSION */
